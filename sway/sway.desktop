@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Sway
+Comment=SirCmpwn's Wayland window manager
+Exec=env XKB_DEFAULT_OPTIONS=ctrl:nocaps,grp:lctrl_rctrl_switch env XKB_DEFAULT_LAYOUT=us,ru sway
+Type=Application
